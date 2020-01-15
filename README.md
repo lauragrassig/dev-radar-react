@@ -1,4 +1,6 @@
 # Developer Radar
 
 **Description:** Using a simple registration, the user will be able to find the github user of 
-developers filtered by technology category and by location.
+developers filtered by technology and by location.
+
+**technology:** ReactJS, React Native, NodeJs
